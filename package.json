@@ -1,0 +1,18 @@
+{
+  "name": "perjalanandinas",
+  "version": "1.0.0",
+  "description": "Sistem perjalanan dinas",
+  "main": "index.js",
+  "scripts": {
+    "test": "api nodeJS Express"
+  },
+  "author": "Achmad Fathoni",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
